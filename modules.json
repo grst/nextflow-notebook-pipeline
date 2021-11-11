@@ -1,0 +1,14 @@
+{
+    "name": "test",
+    "homePage": "TODO",
+    "repos": {
+        "nf-core/modules": {
+            "jupyternotebook": {
+                "git_sha": "2ad98162f355671061f457c7c79db45c13478086"
+            },
+            "rmarkdownnotebook": {
+                "git_sha": "2ad98162f355671061f457c7c79db45c13478086"
+            }
+        }
+    }
+}
