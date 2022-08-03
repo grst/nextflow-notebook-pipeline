@@ -1,0 +1,10 @@
+name: nxfvars
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - seaborn
+  - pandas
+  - pip:
+    - nxfvars==0.2
+prefix: /home/sturm/anaconda3/envs/nxfvars
